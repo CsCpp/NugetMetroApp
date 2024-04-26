@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetMetroApp", "NugetMetroApp\NugetMetroApp.csproj", "{9B3CBA75-7FAF-4677-A56E-3B5806B332CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B3CBA75-7FAF-4677-A56E-3B5806B332CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B3CBA75-7FAF-4677-A56E-3B5806B332CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B3CBA75-7FAF-4677-A56E-3B5806B332CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B3CBA75-7FAF-4677-A56E-3B5806B332CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE95B4F1-356B-45E1-B681-01680CB4A5D9}
+	EndGlobalSection
+EndGlobal
